@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E8B923&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Alejandro+Rico;Full+Stack+Web+Developer;.NET+%2F+NestJS+%C2%B7+React+%2F+Next.js;Construyo+apps+que+no+se+rompen." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E8B923&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Alejandro+Rico;Full+Stack+Web+Developer;.NET+%2F+NestJS+%C2%B7+React+%2F+Next.js" alt="Typing SVG" />
 
 </div>
 
@@ -10,6 +10,7 @@
 
 Cinco años entre desarrollo correctivo y evolutivo, QA y soporte.
 Backend en **.NET (C#)** y **NestJS**, frontend en **React** y **Next.js**.
+Vengo de arreglar código de otros, así que escribo el mío pensando en quien lo mantenga después.
 
 📍 Madrid, España &nbsp;·&nbsp; 🟢 Abierto a proyectos
 
