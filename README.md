@@ -10,7 +10,6 @@
 
 Cinco años entre desarrollo correctivo y evolutivo, QA y soporte.
 Backend en **.NET (C#)** y **NestJS**, frontend en **React** y **Next.js**.
-Vengo de arreglar código de otros, así que escribo el mío pensando en quien lo mantenga después.
 
 📍 Madrid, España &nbsp;·&nbsp; 🟢 Abierto a proyectos
 
