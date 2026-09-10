@@ -65,7 +65,7 @@ Desarrollador Web Full Stack en **Sinergia FP** — desarrollo integral y despli
 
 ### 📌 Proyecto destacado
 
-**[Portfolio Personal](https://github.com/Alexrico10/portfolio)** — este mismo portfolio, construido con React, Next.js y TypeScript, con traducción a varios idiomas.
+**[Portfolio Personal](https://github.com/Alexrico10/portfolio)** —Mi portfolio, construido con React, Next.js y TypeScript, con traducción a varios idiomas.
 
 <br />
 
