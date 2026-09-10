@@ -69,17 +69,6 @@ Desarrollador Web Full Stack en **Sinergia FP** — desarrollo integral y despli
 
 <br />
 
-### 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alexrico10&show_icons=true&hide_border=true&bg_color=0E0D0C&title_color=E8B923&icon_color=E8B923&text_color=EDEDED" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexrico10&layout=compact&hide_border=true&bg_color=0E0D0C&title_color=E8B923&text_color=EDEDED" alt="Top Languages" height="165" />
-
-</div>
-
-<br />
-
 ### 📬 Contacto
 
 <div align="center">
